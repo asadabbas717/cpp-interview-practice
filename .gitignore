@@ -1,0 +1,27 @@
+# Build artifacts
+*.exe
+*.out
+*.obj
+*.o
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+*.log
+
+# IDE/editor folders
+.vscode/
+
+# Common build folders
+Debug/
+Release/
+bin/
+obj/
+x64/
+Win32/
+
+# Local temp files
+*.tmp
+*.swp
+*~
