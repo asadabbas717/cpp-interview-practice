@@ -19,6 +19,12 @@ starting-point interview questions:
 The files are numbered in a recommended practice order. Start with
 [`01_palindrome_check.cpp`](basic_interview_problems/01_palindrome_check.cpp).
 
+## Learn C++ basics and OOP
+
+[`cpp_basics_and_oop`](cpp_basics_and_oop) is a 20-lesson C++17 track covering
+language fundamentals, STL, pointers, exceptions, classes, inheritance,
+polymorphism, templates, RAII, and the rule of zero.
+
 ## Advanced interview problems
 
 [`technical_interview_problems`](technical_interview_problems) contains 25
