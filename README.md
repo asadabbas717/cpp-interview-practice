@@ -36,6 +36,23 @@ Each problem is stored in its own `.cpp` file, making it easy to study, compile,
 
 ---
 
+## 🔥 Advanced Interview Set
+
+The [`technical_interview_problems`](technical_interview_problems) directory
+adds **25 standalone C++17 problems** spanning hash maps, sliding windows,
+stacks, linked lists, trees, graphs, dynamic programming, and bit operations.
+Its [problem index](technical_interview_problems/README.md) lists each solution
+and its target time complexity.
+
+Compile one example on Windows:
+
+```powershell
+g++ -std=c++17 technical_interview_problems\01_two_sum_hash_map.cpp -o problem.exe
+.\problem.exe
+```
+
+---
+
 ## 🚀 Problems Included
 
 | # | Problem | Concept | Solution |
